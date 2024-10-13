@@ -1,4 +1,4 @@
-# 📊 Data Science Practicals Repository 📊
+# 📊 Data Science Practicals 📊
 
 ### Welcome to the Data Science Practicals Repository!
 
